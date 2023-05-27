@@ -1,0 +1,76 @@
+body {
+    font-family: 'Pangolin', cursive;
+    margin: 20px;
+    background-image: url(./foto\ de\ rabisco\ em\ folha.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+h1 {
+    text-align: center;
+    color: red;
+    background-color: rgba(255, 255, 255, 0.8);
+
+}
+
+form {
+    margin-bottom:  20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    color: black;
+    font-weight: bold;
+}
+
+form label,
+form input {
+    display: block;
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+form input {
+    width: 50%;
+    padding: 5px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+button {
+    padding: 5px 10px;
+    background-color: goldenrod;
+    border-radius: 50px;
+    font-weight: bolder;
+    
+    
+}
+
+.button-caneta {
+    cursor: pointer;
+
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    background-color: rgba(255, 255, 255, 0.8);
+
+}
+
+table th,
+table td {
+    border: 1px solid #ccc;
+    padding:  8px;
+    text-align: left;
+    background-color: #c0c0c0
+    
+}
+
+table th {
+    background-color: #f2f2f2;
+    
+}
+
+table tr {
+    background-color: black;
+    border-bottom: 2px solid #4f4f4f;
+    
